@@ -1,3 +1,4 @@
+//by Max Gacek 14.01.2017
 
 // Ilosc deszczu do stworzenia 
 Drop[] drops = new Drop[1000];
